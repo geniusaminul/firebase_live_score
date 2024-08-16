@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444350485217",
+    "project_id": "live-score-f7f06",
+    "storage_bucket": "live-score-f7f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444350485217:android:8e3b5a876930459916dda0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_live_score_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8vhjcWW2q8VbHIlYDFdF1c62BcTUOW8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
